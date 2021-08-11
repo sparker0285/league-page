@@ -1,14 +1,14 @@
 /*   STEP 1   */
 export const leagueID = "726301806027722752"; // your league ID
 export const leagueName = "Raytown 04 Money League"; // your league name
-export const dues = 100; // (optional) used in template constitution page
-export const dynasty = true; // true for dynasty leagues, false for redraft and keeper
+export const dues = 200; // (optional) used in template constitution page
+export const dynasty = false; // true for dynasty leagues, false for redraft and keeper
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Raytown 04 Money League</p>
-  <p>Where all of your fantasies come true.</p>
-  <p>Oderint dum metuant.</p>
+  <p><center>Raytown 04 Money League</center></p>
+  <p><center>Where all of your fantasies come true</center></p>
+  <p><center>Oderint dum metuant</center></p>
 `;
 
 /*   STEP 3   */
@@ -27,7 +27,7 @@ export const managers = [
       //"tookOver": 2020, // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "Lee's Summit", // (optional)
       "bio": "I like tacos.",
-      "photo": "/managers/Seth.jpg", // square ratio recommended (no larger than 500x500)
+      "photo": "src/routes/managers/Seth.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2008, // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "kc", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
