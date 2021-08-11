@@ -6,9 +6,10 @@ export const dynasty = false; // true for dynasty leagues, false for redraft and
 
 /*   STEP 2   */
 export const homepageText = `
-  <p><center>Raytown 04 Money League</center></p>
-  <p><center>Where all of your fantasies come true</center></p>
-  <p><center>Oderint dum metuant</center></p>
+  <p><center>Are you ready for some football??</center></p>
+  <p><center>May Todd Gurley play, may Matt Draft Aaron Rodgers and Carson Palmer with his first two picks</center></p>
+  <p><center>may Jason draft Drew Brees, then try to draft TJ Whosyourmadaddy, then draft Drew Brees again</center></p>
+  <p><center>and may everyone lose to the Commish.  Happy football fantasizing</center></p>
 `;
 
 /*   STEP 3   */
