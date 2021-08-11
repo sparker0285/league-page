@@ -164,14 +164,14 @@
         <li>WR</li>
         <li>TE</li>
         <li>FLEX (RB/WR/TE)</li>
-        <li>FLEX (RB/WR)</li>
+        <li>FLEX (RB/WR/TE)</li>
         <li>D/ST</li>
         <li>K</li>
     </ul>
     
-    <p>18 Bench (Expanded by 5 between the keague draft and start of regular season)</p>
+    <p>6 Bench (Expanded by 5 between the league draft and start of regular season)</p>
 
-    <p>1 IR Spots (Player must be labeled as IR, Out, or Covid in the Sleeper App)</p>
+    <p>3 IR Spots (Player must be labeled as IR, Out, or Covid in the Sleeper App)</p>
     
         <h4 bind:this={oneOneOne}>1.1.1 Position Maximums</h4>
         
@@ -189,7 +189,7 @@
 
     <h3 class="subSectionHeading" bind:this={oneTwo}>1.2 Trading</h3>
     
-    <p>Trading of players and draft picks (up to 3 drafts away) are allowed. Trades will process immediately and will be reversed if vetoed or under investigation for collusion. Tradable assets include players, draft picks, and FAAB $.</p>
+    <p>Trading of players and draft picks (up to 3 drafts away) are allowed. Trades will process after a 2 day review period.</p>
     
     <h4 bind:this={oneTwoOne}>1.2.1 Trade Collusion</h4>
     <div class="subBlock">
@@ -205,7 +205,7 @@
 
         <p>*Collusion includes the organizing of veto votes against an acceptable trade.</p>
 
-        <p>The commissioner will err on the side of letting owners manage their teams the way they see fit. Any collusion will need to be clear. The commissioner reserves the right to step in and at the very least assess the thinking of any team involved in a heavily lop-sided trade. </p>
+        <p>The commissioner will err on the side of letting owners manage their teams the way they see fit. Any collusion will need to be clear. The commissioner reserves the right to assess the reasoning of any team involved in a trade that appears to be unfair. </p>
     </div>
 
     <h4 bind:this={oneTwoTwo}>1.2.2 Lending Players Prohibition</h4>
