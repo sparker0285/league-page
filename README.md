@@ -22,7 +22,7 @@ Generate a custom league page for your Sleeper fantasy football league in just a
 -----------
 <div align="center">
 
-<i>If you and your league like League Page, please consider <b><a href="https://www.buymeacoffee.com/nmelhado" target="_blank">donating</a></b> (and encouraging your league-mates to too!)</i>
+<i>If you and your league like League Page, please consider starring the repo and <b><a href="https://www.buymeacoffee.com/nmelhado" target="_blank">donating</a></b> (and encouraging your league-mates to too!)</i>
 <br>
     <a href="https://www.buymeacoffee.com/nmelhado" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important; width: 217px !important;" width="217px" height="60px" ></a>
 </div>
@@ -54,7 +54,7 @@ Generate a custom league page for your Sleeper fantasy football league in just a
   - [x] ~~Test redraft leagues~~
   - [x] ~~Playoff matchups and current bracket~~
   - [ ] Dynasty power rankings
-  - [ ] Hyperlink all manager references
+  - [x] ~~Hyperlink all manager references~~
   - [x] ~~Fix all css issues when actively resizing the window~~
 
 ## Some real-life League Pages
